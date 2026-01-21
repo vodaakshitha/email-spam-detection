@@ -4,7 +4,9 @@
 Email spam is a growing issue that affects productivity and security through phishing, fraud, and malicious links. This project focuses on identifying and classifying spam emails using machine learning techniques based on email content.
 
 ## Dataset
-The project uses a labeled email dataset containing spam and non-spam (ham) emails. The dataset was used for training and evaluation.
+The project uses a publicly available labeled email dataset containing spam and non-spam (ham) emails. The dataset was used for training and evaluation.
+
+🔗 Dataset Source: https://www.kaggle.com/datasets/bilaliqbalai/spam-ham-dataset
 
 ## What I Did
 - Performed data preprocessing including text cleaning and tokenization
